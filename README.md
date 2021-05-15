@@ -9,6 +9,7 @@ The Social Media is an Android App built using kotlin powered by Firebase Google
 
 <div align ="center"><img align="center" width="300" src="https://github.com/Sachinbhola/resources/blob/main/resources/20210516_001238.gif"/></div>
 <hr>
+
 ## Demo
 
 **Screenshots**
