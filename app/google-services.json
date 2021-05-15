@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "877408630023",
+    "firebase_url": "https://the-social-network-9e24c-default-rtdb.firebaseio.com",
+    "project_id": "the-social-network-9e24c",
+    "storage_bucket": "the-social-network-9e24c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877408630023:android:585616e4d9e63af83f81a2",
+        "android_client_info": {
+          "package_name": "com.sachin.thesocialmedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877408630023-j0rnh87mva0fd5thqp6bgdjfmt3534j8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sachin.thesocialmedia",
+            "certificate_hash": "1f2992a0d4fa7407bfa05d53f436a12a3ae56973"
+          }
+        },
+        {
+          "client_id": "877408630023-prnkb2j1ehpqh698lsb3mdvuc96aptss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFAjvY9xT54U90tQevxWEkS0SVHA3Zgn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877408630023-prnkb2j1ehpqh698lsb3mdvuc96aptss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
